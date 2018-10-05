@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OPJJ1</string>
+    <string name="label_enter">Upišite brojeve</string>
+    <string name="football_is_coming_home">Prvi broj</string>
+    <string name="its_coming_home">Drugi broj</string>
+    <string name="umbusovanovi">Računanje</string>
+    <string name="zbzb">Pogrešan unos</string>
+    <string name="send">Pošalji</string>
+    <string name="send_back">Vrati</string>
+    <string name="email">Sastavi e-mail poruku</string>
+    <string name="send_mail">Pošalji e-mail poruku</string>
+    <string name="send_to">Primatelj: </string>
+    <string name="title">Naslov</string>
+    <string name="e_mail_text">Sadržaj poruke</string>
+    <string name="missing">Nešto nedostaje. Popravite unos.</string>
+    <string name="uppercase">Naslov mora počinjati sa velikim slovom.</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OPJJ1</string>
+    <string name="label_enter">Input numbers</string>
+    <string name="football_is_coming_home">First number</string>
+    <string name="its_coming_home">Second number</string>
+    <string name="umbusovanovi">Calculate</string>
+    <string name="zbzb">Invalid Request</string>
+    <string name="send">Send</string>
+    <string name="send_back">Send back</string>
+    <string name="email">Compose e-mail</string>
+    <string name="send_mail">Send mail</string>
+    <string name="send_to">Send to:</string>
+    <string name="title">Title</string>
+    <string name="e_mail_text">E-mail text</string>
+    <string name="missing">Something is missing, check your input.</string>
+    <string name="uppercase">Subject has to start with an uppercase</string>
+</resources>
